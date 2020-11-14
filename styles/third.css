@@ -1,0 +1,38 @@
+.secondcard {
+    color: crimson;
+}
+
+.thirdcard {
+    color:purple;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    display: grid;
+    padding: 5%;
+}
+
+.socialsharingsection {
+    display: flex;
+    padding-top: 20%;
+}
+
+.socialsection {
+    display: block;
+}
+
+.authorinfosection {
+    padding: 4%;
+    display: grid;
+}
+
+img {
+    width: 80%;
+}
+
+.avatar {
+    width: 90%;
+}
